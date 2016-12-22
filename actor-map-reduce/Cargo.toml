@@ -1,0 +1,7 @@
+[package]
+name = "actor-map-reduce"
+version = "0.1.0"
+authors = ["Ryo Hashiguchi <ryo12redstone@gmail.com>"]
+
+[dependencies]
+crux = { git = "https://github.com/ryo33/crux" }
